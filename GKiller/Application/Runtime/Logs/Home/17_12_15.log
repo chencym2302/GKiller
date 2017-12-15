@@ -1,0 +1,3142 @@
+[ 2017-12-15T09:50:23+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 62 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 62 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.221013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.222013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2017-12-15T09:50:56+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:50:59+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:00+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:01+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:01+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0080s ]
+
+[ 2017-12-15T09:51:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+
+[ 2017-12-15T09:51:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0080s ]
+
+[ 2017-12-15T09:51:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:03+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0180s ]
+
+[ 2017-12-15T09:51:03+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:03+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:03+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:03+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0080s ]
+
+[ 2017-12-15T09:51:04+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0080s ]
+
+[ 2017-12-15T09:51:04+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+
+[ 2017-12-15T09:51:04+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+
+[ 2017-12-15T09:51:12+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:12+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:51:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+
+[ 2017-12-15T09:51:14+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_school=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0040s ]
+
+[ 2017-12-15T09:52:23+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+
+[ 2017-12-15T09:52:31+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+
+[ 2017-12-15T09:53:19+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+
+[ 2017-12-15T09:54:14+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+
+[ 2017-12-15T09:54:22+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0025s ]
+
+[ 2017-12-15T09:56:00+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0025s ]
+
+[ 2017-12-15T09:56:32+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:56:33+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:56:42+08:00 ] ::1 /GKiller/home/doclist/search?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:56:45+08:00 ] ::1 /GKiller/home/doclist/search?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T09:57:30+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T10:12:07+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+ERR: 1054:Unknown column 'School_name' in 'field list'
+ [ SQL语句 ] : SELECT `School_name` FROM `document` LIMIT 1  
+ERR: 1054:Unknown column 'School_name' in 'field list'
+ [ SQL语句 ] : SELECT `School_name` FROM `document` LIMIT 1  
+
+[ 2017-12-15T10:14:20+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: Document_title D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 66 行.
+NOTIC: [8] Undefined index: Teacher_name D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 67 行.
+
+[ 2017-12-15T10:15:27+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0080s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T10:16:08+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T10:17:23+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0060s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0060s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0040s ]
+
+[ 2017-12-15T10:19:59+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0090s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T10:23:07+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10001&select_courseid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0110s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0090s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0020s ]
+
+[ 2017-12-15T10:23:19+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10002&select_courseid=20002
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0100s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0100s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 AND `Course_id` = 20002 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T10:23:25+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 40 行.
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0080s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0090s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T10:23:39+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10002&select_courseid=20002
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 AND `Course_id` = 20002 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T10:23:49+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10002&select_courseid=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0090s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0070s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T10:23:57+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10001&select_courseid=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0080s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0070s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T10:24:11+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10001&select_courseid=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0080s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 ORDER BY Create_time  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: Document_title D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 66 行.
+NOTIC: [8] Undefined index: Teacher_name D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 67 行.
+
+[ 2017-12-15T10:24:23+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10001&select_courseid=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0090s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 ORDER BY Create_time  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: Document_title D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 66 行.
+NOTIC: [8] Undefined index: Teacher_name D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 67 行.
+
+[ 2017-12-15T10:24:40+08:00 ] ::1 /GKiller/home/doclist/search?select_schoolid=10001&select_courseid=-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0110s ]
+SQL: SELECT `School_name` FROM `school` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT `Course_name` FROM `course` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 ORDER BY Create_time  [ RunTime:0.0020s ]
+NOTIC: [8] Use of undefined constant Document_title - assumed 'Document_title' D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 66 行.
+NOTIC: [8] Array to string conversion D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 66 行.
+NOTIC: [8] Undefined index: Teacher_name D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 67 行.
+
+[ 2017-12-15T10:38:16+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 62 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 62 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T11:16:31+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-12-15T11:17:20+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 63 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 66 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T11:18:07+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 62 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T11:54:08+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0030s ]
+
+[ 2017-12-15T11:54:51+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+
+[ 2017-12-15T11:55:05+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+
+[ 2017-12-15T11:55:07+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+
+[ 2017-12-15T11:55:26+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: select_schoolid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: select_courseid D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:04:14+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 62 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:04:23+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_schoolid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:04:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_schoolid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:04:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_schoolid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:04:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_schoolid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:04:47+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_schoolid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:04:48+08:00 ] ::1 /GKiller/index.php/home/doclist/search?select_schoolid=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = null AND `Course_id` = null ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:05:50+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 65 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 68 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:05:56+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0020s ]
+
+[ 2017-12-15T12:06:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:06:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:06:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:07:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-15T12:07:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-12-15T12:07:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-12-15T12:07:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search?schoolId=10001&courseId=20001
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-12-15T12:16:23+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 69 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 72 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T12:16:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:16:31+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:16:32+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-15T12:16:32+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-12-15T12:16:32+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-15T12:16:33+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-12-15T12:16:33+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-15T12:16:40+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:16:41+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:17:06+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-15T12:18:15+08:00 ] ::1 /GKiller/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: schoolId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 38 行.
+NOTIC: [8] Undefined index: courseId D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 39 行.
+
+[ 2017-12-15T12:22:16+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 69 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 72 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.049003s ]
+
+[ 2017-12-15T12:22:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T12:25:08+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:30:48+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+
+[ 2017-12-15T12:31:03+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 69 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 72 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T12:31:04+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T12:31:10+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T12:31:46+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T12:41:22+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.025002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026002s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:16:21+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 73 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 76 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-12-15T13:16:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:17:11+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:20:06+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 73 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 76 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T13:20:08+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:20:10+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:20:16+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:20:23+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0020s ]
+
+[ 2017-12-15T13:20:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:20:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:20:29+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:20:37+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:23:14+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:23:14+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0030s ]
+
+[ 2017-12-15T13:23:15+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:23:17+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 74 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T13:23:20+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:23:33+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:23:35+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 33 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined variable: data D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 36 行.
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 74 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-12-15T13:23:41+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0020s ]
+
+[ 2017-12-15T13:28:18+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 74 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T13:28:19+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:28:43+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:28:43+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:28:43+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:28:44+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:28:44+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:29:00+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:29:01+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 74 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T13:29:06+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index:  D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 74 行.
+NOTIC: [8] Undefined index: school_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+NOTIC: [8] Undefined index: teacher_name D:\wamp64\www\GKiller\Application\Runtime\Cache\Home\b28709f307498ebc0190ed89be7a80fe.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T13:29:08+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:30:16+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T13:30:20+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:30:28+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0020s ]
+
+[ 2017-12-15T13:33:26+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T13:33:27+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:34:31+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T13:34:38+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T13:39:09+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T13:39:15+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 60 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0020s ]
+
+[ 2017-12-15T13:49:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 60 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T13:50:20+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 60 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:03:18+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 60 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:03:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T14:07:25+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-12-15T14:07:33+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T14:07:48+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T14:07:57+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10001 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T14:08:38+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T14:08:40+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T14:08:42+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:08:54+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-12-15T14:08:56+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T14:12:22+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-12-15T14:22:06+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:29:16+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0400s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:29:22+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:30:31+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0225s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:30:33+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:31:41+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0350s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:31:44+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+
+[ 2017-12-15T14:32:14+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0300s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-12-15T14:32:16+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+
+[ 2017-12-15T14:32:43+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0325s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-12-15T14:32:45+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+
+[ 2017-12-15T14:33:20+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0325s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:33:22+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:33:42+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:33:44+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:37:33+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:37:35+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:38:41+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:38:42+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+
+[ 2017-12-15T14:39:16+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:39:17+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:39:22+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:41:16+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:41:18+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:41:21+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:43:32+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002500s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:43:34+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+
+[ 2017-12-15T14:43:36+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:44:25+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0075s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:44:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:44:37+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:44:39+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:46:18+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0275s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:46:22+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002500s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:47:00+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0125s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:47:01+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:47:05+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0100s ]
+
+[ 2017-12-15T14:47:06+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:47:07+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:47:23+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:47:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:49:43+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:49:46+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002501s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:49:48+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:52:04+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:52:07+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:52:15+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:53:01+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:53:03+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:53:47+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002501s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-12-15T14:53:49+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0025s ]
+
+[ 2017-12-15T14:54:56+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002501s ]
+
+[ 2017-12-15T14:54:59+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T14:55:57+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0625s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2017-12-15T14:55:58+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T15:21:37+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T15:29:01+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-12-15T15:29:02+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+
+[ 2017-12-15T15:30:28+08:00 ] ::1 /GKiller/home/doclist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `school` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `school`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-12-15T15:30:30+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `document`  [ RunTime:0.0000s ]
+
+[ 2017-12-15T15:30:47+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T15:30:49+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T15:31:13+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.1200s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T15:31:14+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `document` WHERE `School_id` = 10002 AND `Course_id` = 20001 ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T15:31:18+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0180s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 58 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0010s ]
+
+[ 2017-12-15T15:31:25+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 58 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0020s ]
+
+[ 2017-12-15T15:31:26+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 58 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0000s ]
+
+[ 2017-12-15T15:33:44+08:00 ] ::1 /GKiller/index.php/home/doclist/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+SQL: SHOW COLUMNS FROM `document` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: condition D:\wamp64\www\GKiller\Application\Home\Controller\DoclistController.class.php 第 58 行.
+SQL: SELECT * FROM `document` ORDER BY Create_time  [ RunTime:0.0010s ]
+
